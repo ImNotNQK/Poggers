@@ -1,0 +1,28 @@
+/**
+ * @name Poggers
+ * @author puckzxz#2080
+ * @version 2.2
+ * @description An easily customizable and automatically updating theme
+ * @invite FdZhbjY
+ * @source https://github.com/puckzxz/NotAnotherAnimeTheme
+*/
+
+@import url('https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/i29WMLK.jpg');
+  --friends-icon: url('https://i.imgur.com/ly4snf1.jpg');
+  --friends-icon-zoom: 109%;
+  --friends-icon-position: center center;
+  --main-color: rgb(255,15,15);
+  --main-transparency: rgba(0,0,0,0.58);
+  --hover-list-bg-color: rgba(0,0,0,0);
+  --border-lines-color: rgba(0,0,0,0);
+  --scroll-bar-color: rgba(255,255,255,0);
+  --selected-text-voice-color: #ff0000;
+  --channel-hover-text-color: rgba(255,0,0,0.75);
+  --unread-text-color: rgba(239,239,239,1);
+  --user-popup-background: rgba(0,0,0,0.61);
+  --font-size: '16';
+  --unread-server-animation: rainbow;
+}
