@@ -1,4 +1,6 @@
 /*I STOLE THIS*/
+/* Don't touch this */
+
 html {
     font-size: var(--font-size) !important;
 }
@@ -1652,27 +1654,34 @@ padding: 0 !important;
     margin-left: 0;
     margin-bottom: 20px;
 }
+
 .wrapper-1Rf91z .scroller-2TZvBN > div.listItem-2P_4kh:nth-child(1) .item-2hkk8m {
     opacity: 0 !important;
 }
+
 .wrapper-1Rf91z .scroller-2TZvBN > div:not(.listItem-2P_4kh) > div {
     width: 50px;
     margin-left: 7px;
 }
+
 .wrapper-1Rf91z .scroller-2TZvBN > div:not(.listItem-2P_4kh) > div .item-2hkk8m {
     opacity: 0 !important;
 }
+
 .wrapper-1Rf91z .scroller-2TZvBN > div:not(.listItem-2P_4kh) > div .wrapper-sa6paO {
     display: none !important;
 }
+
 .listItem-2P_4kh {
     width: auto;
     margin-left: 9px;
 }
+
 .wrapper-sa6paO {
     height: 10px;
     width: 54px;
 }
+
 .item-2hkk8m {
     animation: var(--unread-server-animation) 3s linear infinite;
     background-color: var(--main-color);
@@ -1688,11 +1697,13 @@ padding: 0 !important;
     height: 8px !important;
     z-index: 10;
 }
+
 .pill-31IEus {
     left: 0;
     position: absolute;
     top: -4px;
 }
+
 .wrapper-1Rf91z .scroller-2TZvBN .guildSeparator-3s64Iy {
     position: relative;
     width: 100%;
@@ -1749,10 +1760,6 @@ padding: 0 !important;
 
 .scroller-2FKFPG > .listItem-2P_4kh:first-child > .listItemWrapper-3X98Pc > .wrapper-25eVIn > svg {
     opacity: 0;
-}
-
-.base-3dtUhz {
-    left: 72px;
 }
 
 .scroller-1Bvpku {
